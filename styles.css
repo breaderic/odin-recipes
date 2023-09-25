@@ -1,0 +1,30 @@
+/* styles.css */
+
+p1 {
+    font-family: "Comic Sans", Arial, Helvetica, sans-serif}
+
+.header {
+    text-align:center;
+    color: red;
+    background-color:green
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
+
+div.container {
+    text-align: center;
+  }
+  
+.myul {
+    display: inline-block;
+    text-align: left;
+}
+
+.ingredients {
+    font-weight:bold;
+}
