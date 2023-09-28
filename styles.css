@@ -1,12 +1,18 @@
 /* styles.css */
 
 p1 {
-    font-family: "Comic Sans", Arial, Helvetica, sans-serif}
+    font-family: "Comic Sans", Arial, Helvetica, sans-serif;
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+    
+}
 
 .header {
     text-align:center;
     color: red;
-    background-color:green
+    background-color:green;
+    
 }
 
 .center {
@@ -27,4 +33,21 @@ div.container {
 
 .ingredients {
     font-weight:bold;
+}
+
+.box {
+    background: white;
+    width: 300px;
+    border-left-width: 20px;
+    border-left-color: green;
+    border-left-style: solid;
+
+    border-right-width: 20px;
+    border-right-color: red;
+    border-right-style: solid;
+    padding: 25px;
+
+    margin-right: auto;
+    margin-left: auto;
+    
 }
